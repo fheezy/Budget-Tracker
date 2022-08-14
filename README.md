@@ -62,10 +62,11 @@ Test
 
 ## Questions 
 
+| | Description |
 | --- | --- |
 | Name | Farhan |
 | Occupation | Developer |
-| Linkedin | <https://www.linkedin.com/in/farhan-hoque-674a1a245/> |
+|  Linkedin | <https://www.linkedin.com/in/farhan-hoque-674a1a245/> |
 | GitHub | <https://github.com/fheezy> |
 
 ## License 
